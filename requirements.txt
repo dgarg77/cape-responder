@@ -7,4 +7,6 @@ pytest==3.6.4
 #Cape dependencies
 git+https://github.com/bloomsburyai/cape-document-manager
 git+https://github.com/bloomsburyai/cape-machine-reader
-git+https://github.com/bloomsburyai/cape-document-qa
+# Dinesh Garg changed the following to the modified requirement.txt file that he pushed on his own repo
+#git+https://github.com/bloomsburyai/cape-document-qa
+#git+https://github.com/dgarg77/cape-document-qa
